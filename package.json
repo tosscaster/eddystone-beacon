@@ -37,11 +37,11 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "bleno": "^0.5.0",
+    "bleno": "tosscaster/bleno",
     "eddystone-url-encoding": "^1.0.1"
   },
   "devDependencies": {
-    "jshint": "~2.5.6",
-    "mocha": "~1.21.4"
+    "jshint": "~2.10.2",
+    "mocha": "~6.2.0"
   }
 }
