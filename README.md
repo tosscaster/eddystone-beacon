@@ -25,7 +25,7 @@ See [bleno Windows prerequisites](https://github.com/sandeepmistry/bleno#windows
 ## Install
 
 ```sh
-npm install eddystone-beacon
+npm install github:tosscaster/eddystone-beacon
 ```
 
 ## Usage
